@@ -56,4 +56,4 @@ To deliver a responsive visual control center that:
 
 ## Screenshots / Demos
 
-![Mobile Sales Dashboard Preview]()
+![Mobile Sales Dashboard Preview](https://github.com/Thakurudhay26/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Dashboard%20Snapshot.png)
